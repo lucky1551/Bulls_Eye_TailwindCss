@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.radian_colour{
+    background:radial-gradient(white, rgb(195, 40, 195)) ;
+}
